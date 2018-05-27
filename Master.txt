@@ -11,7 +11,7 @@
 /data/Enemies.json
 /data/Items.json
 /data/Map001.json
-/data/Map002.json https://raw.githubusercontent.com/Dawntay101/Updater/master/Map002.json
+/data/Map002.json
 /data/Map003.json
 /data/Map004.json
 /data/Map005.json
